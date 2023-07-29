@@ -36,22 +36,21 @@
   cursor: pointer;
 }
 
-@media screen and (max-width: 400px) {
-  
-  .navbar{
+@media screen and (max-width: 450px) {
+  .navbar {
     width: 100%;
     padding: 12px 0.9375rem;
   }
 
-  .nav-links{
+  .nav-links {
     display: none;
   }
 
-  .logo{
+  .logo {
     width: 3.5rem;
   }
 
-  .nav-btn{
+  .nav-btn {
     padding: 0.1875rem 0.5625rem;
   }
 }
